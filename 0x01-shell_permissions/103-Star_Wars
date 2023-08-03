@@ -1,2 +1,2 @@
 #!/bin/bash
-Type telnet , hit ↵ Enter . Then, type o , and hit ↵ Enter again
+telnet towel.blinkenlights.ln
